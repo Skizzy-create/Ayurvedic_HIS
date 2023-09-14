@@ -69,6 +69,4 @@ Before pushing your changes, always pull the latest changes from the `main` bran
 ## 💬 Questions and Feedback
 
 If you have questions or suggestions regarding our Git practices, please reach out to the team on our WhatsApp group. Happy coding!
-```
 
-This version of the `README.md` includes colorful text and emojis to make it more engaging and visually appealing.
