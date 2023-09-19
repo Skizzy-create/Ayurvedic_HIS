@@ -1,0 +1,258 @@
+{"input": "###User: Hi, my age is 54, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 25, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 18, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take praval pisti to better your health"}
+{"input": "###User: Hi, my age is 11, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mudgaparni to better your health"}
+{"input": "###User: Hi, my age is 52, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 39, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take kamdhudha ras to better your health"}
+{"input": "###User: Hi, my age is 10, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take mrutyunjay rasa to better your health"}
+{"input": "###User: Hi, my age is 16, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mudgaparni to better your health"}
+{"input": "###User: Hi, my age is 48, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 15, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take mrutyunjay rasa to better your health"}
+{"input": "###User: Hi, my age is 14, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take shivakshar pachan churna to better your health"}
+{"input": "###User: Hi, my age is 14, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Vasant Kusumakar Ras to better your health"}
+{"input": "###User: Hi, my age is 29, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 20, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 6, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take promegranate drink to better your health"}
+{"input": "###User: Hi, my age is 52, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Jatamansi + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 20, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take tribhuvan kirti rasa to better your health"}
+{"input": "###User: Hi, my age is 14, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 38, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 41, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 38, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 55, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Anu Taila + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 29, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 17, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take mrutyunjay rasa to better your health"}
+{"input": "###User: Hi, my age is 9, I have migraine, its severity is HIGH", "output": "###Assistant: You must take shankh bhasma to better your health"}
+{"input": "###User: Hi, my age is 60, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 35, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 28, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 31, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 22, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 49, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 27, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 26, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 19, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 59, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 46, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 18, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take jahar mohra pishti to better your health"}
+{"input": "###User: Hi, my age is 53, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 21, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 51, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 46, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 29, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 27, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 5, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take promegranate drink to better your health"}
+{"input": "###User: Hi, my age is 55, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 16, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Jyotishmati to better your health"}
+{"input": "###User: Hi, my age is 9, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 49, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Anu Taila + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 11, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take shivakshar pachan churna to better your health"}
+{"input": "###User: Hi, my age is 53, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 28, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 42, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 29, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 25, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take kamdhudha ras to better your health"}
+{"input": "###User: Hi, my age is 42, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 17, I have arthritis, its severity is LOW", "output": "###Assistant: You must take akik pishti to better your health"}
+{"input": "###User: Hi, my age is 33, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 37, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 55, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 30, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take kamdhudha ras to better your health"}
+{"input": "###User: Hi, my age is 42, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 19, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 10, I have migraine, its severity is HIGH", "output": "###Assistant: You must take pathyadi guggulu to better your health"}
+{"input": "###User: Hi, my age is 10, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take drakshasava to better your health"}
+{"input": "###User: Hi, my age is 21, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 34, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 27, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 48, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 55, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Jatamansi + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 31, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 49, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 23, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 12, I have arthritis, its severity is LOW", "output": "###Assistant: You must take akik pishti to better your health"}
+{"input": "###User: Hi, my age is 55, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Anu Taila + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 13, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take tribhuvan kirti rasa to better your health"}
+{"input": "###User: Hi, my age is 22, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 19, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take kamdhudha ras to better your health"}
+{"input": "###User: Hi, my age is 44, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 24, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 53, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take ricinus communis to better your health"}
+{"input": "###User: Hi, my age is 36, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 53, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 30, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 57, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 47, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 26, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 43, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 12, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take praval pisti to better your health"}
+{"input": "###User: Hi, my age is 57, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 60, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 19, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 23, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 26, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 31, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 28, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 33, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 54, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 52, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 23, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 35, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 24, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 21, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 40, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 19, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 10, I have migraine, its severity is LOW", "output": "###Assistant: You must take shankh-vati to better your health"}
+{"input": "###User: Hi, my age is 46, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 20, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take gulachyadi kashayam to better your health"}
+{"input": "###User: Hi, my age is 41, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 19, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 54, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 34, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 56, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 59, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 45, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 32, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take kamdhudha ras to better your health"}
+{"input": "###User: Hi, my age is 55, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 15, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take jahar mohra pishti to better your health"}
+{"input": "###User: Hi, my age is 48, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 59, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 50, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 40, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 17, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Jyotishmati to better your health"}
+{"input": "###User: Hi, my age is 50, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 37, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 12, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take mrutyunjay rasa to better your health"}
+{"input": "###User: Hi, my age is 24, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 55, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 17, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take tribhuvan kirti rasa to better your health"}
+{"input": "###User: Hi, my age is 36, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 19, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take tribhuvan kirti rasa to better your health"}
+{"input": "###User: Hi, my age is 45, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 37, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 25, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 28, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 38, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 31, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 9, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 46, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 30, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 56, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take ricinus communis to better your health"}
+{"input": "###User: Hi, my age is 11, I have gastritis, its severity is LOW", "output": "###Assistant: You must take lavan bhasker churna to better your health"}
+{"input": "###User: Hi, my age is 51, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 44, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 17, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 43, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 23, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 42, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 26, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 19, I have gastritis, its severity is LOW", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 36, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 41, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 16, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take praval pisti to better your health"}
+{"input": "###User: Hi, my age is 26, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 25, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 55, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 46, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 27, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take kamdhudha ras to better your health"}
+{"input": "###User: Hi, my age is 49, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 24, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 31, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 24, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 21, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 49, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 10, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take shud laksha to better your health"}
+{"input": "###User: Hi, my age is 23, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 10, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 56, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 56, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 45, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 11, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 48, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 37, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 53, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 53, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 50, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 59, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 40, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 17, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take gulachyadi kashayam to better your health"}
+{"input": "###User: Hi, my age is 11, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Vasant Kusumakar Ras to better your health"}
+{"input": "###User: Hi, my age is 25, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 57, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 8, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take ajwan water to better your health"}
+{"input": "###User: Hi, my age is 27, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 16, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 16, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take indukantham kashayam to better your health"}
+{"input": "###User: Hi, my age is 39, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 38, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 17, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Vasant Kusumakar Ras to better your health"}
+{"input": "###User: Hi, my age is 29, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 11, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take praval pisti to better your health"}
+{"input": "###User: Hi, my age is 39, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 43, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Anu Taila + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 32, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 28, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 21, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 11, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take shivakshar pachan churna to better your health"}
+{"input": "###User: Hi, my age is 50, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Jatamansi + Shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 36, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take panchkol churna to better your health"}
+{"input": "###User: Hi, my age is 50, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 25, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 47, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 8, I have migraine, its severity is HIGH", "output": "###Assistant: You must take shankhapushpi to better your health"}
+{"input": "###User: Hi, my age is 28, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 33, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 10, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 48, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 9, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 59, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 19, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 22, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 19, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take tribhuvan kirti rasa to better your health"}
+{"input": "###User: Hi, my age is 44, I have gastritis, its severity is LOW", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 36, I have migraine, its severity is HIGH", "output": "###Assistant: You must take Shankha prakshalana to better your health"}
+{"input": "###User: Hi, my age is 9, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take dadimashtaka churna to better your health"}
+{"input": "###User: Hi, my age is 12, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take praval pisti to better your health"}
+{"input": "###User: Hi, my age is 29, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 33, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 45, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take trikatu churna to better your health"}
+{"input": "###User: Hi, my age is 60, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 31, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 26, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 32, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take ashta choornam to better your health"}
+{"input": "###User: Hi, my age is 32, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 32, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 23, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 10, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take drakshasava to better your health"}
+{"input": "###User: Hi, my age is 57, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take ricinus communis to better your health"}
+{"input": "###User: Hi, my age is 59, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
+{"input": "###User: Hi, my age is 51, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 38, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 32, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 49, I have arthritis, its severity is NORMAL", "output": "###Assistant: You must take ricinus communis to better your health"}
+{"input": "###User: Hi, my age is 16, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take sanjivani vati to better your health"}
+{"input": "###User: Hi, my age is 37, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 29, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 55, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 20, I have gastritis, its severity is NORMAL", "output": "###Assistant: You must take gulachyadi kashayam to better your health"}
+{"input": "###User: Hi, my age is 23, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 8, I have arthritis, its severity is LOW", "output": "###Assistant: You must take nirugandi leaves paste to better your health"}
+{"input": "###User: Hi, my age is 36, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 59, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 10, I have migraine, its severity is LOW", "output": "###Assistant: You must take shankh-vati to better your health"}
+{"input": "###User: Hi, my age is 23, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 39, I have migraine, its severity is NORMAL", "output": "###Assistant: You must take Chandraprabha vati to better your health"}
+{"input": "###User: Hi, my age is 23, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take giloy satya to better your health"}
+{"input": "###User: Hi, my age is 39, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 40, I have arthritis, its severity is LOW", "output": "###Assistant: You must take mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 54, I have arthritis, its severity is HIGH", "output": "###Assistant: You must take boswellia curcumin to better your health"}
+{"input": "###User: Hi, my age is 42, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take ajamodarka to better your health"}
+{"input": "###User: Hi, my age is 26, I have diarrhea, its severity is LOW", "output": "###Assistant: You must take fenugreek seed to better your health"}
+{"input": "###User: Hi, my age is 26, I have migraine, its severity is LOW", "output": "###Assistant: You must take Mukta pishti to better your health"}
+{"input": "###User: Hi, my age is 44, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 19, I have gastritis, its severity is HIGH", "output": "###Assistant: You must take indukantham kashayam to better your health"}
+{"input": "###User: Hi, my age is 32, I have diarrhea, its severity is NORMAL", "output": "###Assistant: You must take kutajarishta to better your health"}
+{"input": "###User: Hi, my age is 52, I have migraine, its severity is LOW", "output": "###Assistant: You must take Shankh Vati + Shankh Bhasma to better your health"}
+{"input": "###User: Hi, my age is 33, I have gastritis, its severity is LOW", "output": "###Assistant: You must take phadke to better your health"}
+{"input": "###User: Hi, my age is 41, I have arthritis, its severity is LOW", "output": "###Assistant: You must take aamvatantak churna to better your health"}
+{"input": "###User: Hi, my age is 52, I have diarrhea, its severity is HIGH", "output": "###Assistant: You must take sitopaladi churna to better your health"}
