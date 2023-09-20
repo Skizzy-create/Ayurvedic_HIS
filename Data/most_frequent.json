@@ -1,0 +1,324 @@
+[
+  {
+    "symptoms": ["Fever", "Cough", "Fatigue"],
+    "message": "If you're facing these symptoms, maybe you're facing with COVID-19. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Tulsi leaves", "Turmeric", "Honey"],
+      "Medication & Habits to follow to recover": [
+        "Chew Tulsi leaves daily for immunity.",
+        "Mix turmeric and honey, and consume it.",
+        "Follow prescribed medical treatment."
+      ]
+    },
+    "precautions": [
+      "Isolate to prevent spreading",
+      "Wear a mask and maintain social distance",
+      "Practice good hand hygiene"
+    ],
+    "last_message": "If you aren't diagnosed within 3 days, visit the nearest doctor."
+  },
+  {
+    "symptoms": ["Frequent urination", "Increased thirst", "Fatigue"],
+    "message": "If you're facing these symptoms, maybe you're facing with Diabetes. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Bitter Gourd", "Cinnamon", "Fenugreek seeds"],
+      "Medication & Habits to follow to recover": [
+        "Consume bitter gourd juice daily.",
+        "Add cinnamon to your diet for blood sugar control.",
+        "Soak fenugreek seeds overnight and consume them in the morning."
+      ]
+    },
+    "precautions": [
+      "Monitor blood sugar levels regularly",
+      "Follow a balanced diet and avoid sugary foods",
+      "Exercise regularly"
+    ],
+    "last_message": "Consult a doctor for personalized advice."
+  },
+  {
+    "symptoms": ["Breathlessness", "Wheezing", "Coughing"],
+    "message": "If you're facing these symptoms, maybe you're facing with Asthma. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Licorice root", "Ginger", "Honey"],
+      "Medication & Habits to follow to recover": [
+        "Use licorice root as a potential remedy.",
+        "Prepare ginger tea for relief.",
+        "Consume honey to soothe the throat."
+      ]
+    },
+    "precautions": [
+      "Keep an inhaler handy for emergencies",
+      "Identify and avoid asthma triggers",
+      "Regularly consult with a pulmonologist"
+    ],
+    "last_message": "Maintain an asthma action plan."
+  },
+  {
+    "symptoms": ["Abdominal pain", "Bloating", "Diarrhea"],
+    "message": "If you're facing these symptoms, maybe you're facing with Irritable Bowel Syndrome (IBS). I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Peppermint oil", "Fennel seeds", "Chamomile tea"],
+      "Medication & Habits to follow to recover": [
+        "Take peppermint oil capsules for symptom relief.",
+        "Chew fennel seeds after meals.",
+        "Drink chamomile tea for relaxation."
+      ]
+    },
+    "precautions": [
+      "Maintain a food diary to identify trigger foods",
+      "Practice stress management techniques",
+      "Consult a gastroenterologist for a personalized plan"
+    ],
+    "last_message": "Regular follow-ups are essential."
+  },
+  {
+    "symptoms": ["Headache", "Nausea", "Sensitivity to light"],
+    "message": "If you're facing these symptoms, maybe you're facing with Migraine. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Peppermint oil", "Lavender oil", "Ginger tea"],
+      "Medication & Habits to follow to recover": [
+        "Apply peppermint oil to your temples for relief.",
+        "Inhale lavender oil for relaxation.",
+        "Drink ginger tea to reduce nausea."
+      ]
+    },
+    "precautions": [
+      "Identify and avoid migraine triggers",
+      "Maintain a regular sleep schedule",
+      "Consult a neurologist for personalized treatment"
+    ],
+    "last_message": "Keep a migraine diary for tracking."
+  },
+  {
+    "symptoms": ["Fatigue", "Unexplained weight loss", "Frequent urination"],
+    "message": "If you're facing these symptoms, maybe you're facing with Diabetes. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Bitter Gourd", "Cinnamon", "Fenugreek seeds"],
+      "Medication & Habits to follow to recover": [
+        "Consume bitter gourd juice daily.",
+        "Add cinnamon to your diet for blood sugar control.",
+        "Soak fenugreek seeds overnight and consume them in the morning."
+      ]
+    },
+    "precautions": [
+      "Monitor blood sugar levels regularly",
+      "Follow a balanced diet and avoid sugary foods",
+      "Exercise regularly"
+    ],
+    "last_message": "Consult a doctor for personalized advice."
+  },
+  {
+    "symptoms": ["Runny nose", "Sneezing", "Sore throat"],
+    "message": "If you're facing these symptoms, maybe you're facing with Common Cold. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Honey", "Lemon", "Ginger"],
+      "Medication & Habits to follow to recover": [
+        "Mix honey and lemon juice in warm water.",
+        "Drink ginger tea for its potential benefits."
+      ]
+    },
+    "precautions": [
+      "Stay hydrated",
+      "Rest and get plenty of sleep",
+      "Wash hands frequently to prevent spread"
+    ],
+    "last_message": "If symptoms persist, consult a healthcare professional."
+  },
+  {
+    "symptoms": ["Chest pain", "Breathlessness", "Fatigue"],
+    "message": "If you're facing these symptoms, maybe you're facing with Heart Disease. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Garlic", "Arjuna bark", "Hawthorn berries"],
+      "Medication & Habits to follow to recover": [
+        "Include garlic in your daily diet.",
+        "Prepare a decoction with Arjuna bark.",
+        "Consume hawthorn berries for heart health."
+      ]
+    },
+    "precautions": [
+      "Adopt a heart-healthy diet",
+      "Regularly monitor blood pressure and cholesterol",
+      "Consult a cardiologist for personalized advice"
+    ],
+    "last_message": "Regular exercise is crucial for heart health."
+  },
+  {
+    "symptoms": ["Abdominal pain", "Change in bowel habits", "Blood in stool"],
+    "message": "If you're facing these symptoms, maybe you're facing with Colorectal Cancer. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Ginger", "Aloe vera juice", "Peppermint tea"],
+      "Medication & Habits to follow to recover": [
+        "Sip ginger tea for potential digestive benefits.",
+        "Drink aloe vera juice for potential digestive benefits.",
+        "Sip peppermint tea for stomach soothing."
+      ]
+    },
+    "precautions": [
+      "Regular check-ups with a gastroenterologist/oncologist",
+      "Maintain a healthy diet",
+      "Limit alcohol consumption"
+    ],
+    "last_message": "Early detection is key for successful treatment."
+  },
+  {
+    "symptoms": ["Frequent nosebleeds", "Difficulty breathing", "Chest pain"],
+    "message": "If you're facing these symptoms, maybe you're facing with Nasopharyngeal Cancer. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Green tea", "Licorice root", "Eucalyptus oil"],
+      "Medication & Habits to follow to recover": [
+        "Drink green tea for its antioxidant properties.",
+        "Use licorice root as a throat soothing remedy.",
+        "Inhale steam with eucalyptus oil for relief."
+      ]
+    },
+    "precautions": [
+      "Avoid exposure to tobacco and environmental toxins",
+      "Regular ENT check-ups",
+      "Consult an oncologist for treatment options"
+    ],
+    "last_message": "Early diagnosis and treatment improve outcomes."
+  },
+  {
+    "symptoms": ["Persistent hiccups", "Difficulty swallowing", "Unexplained weight loss"],
+    "message": "If you're facing these symptoms, maybe you're facing with Esophageal Cancer. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Aloe vera juice", "Turmeric", "Ginger tea"],
+      "Medication & Habits to follow to recover": [
+        "Drink aloe vera juice for digestive health.",
+        "Include turmeric in your diet for its anti-inflammatory properties.",
+        "Sip ginger tea for soothing the esophagus."
+      ]
+    },
+    "precautions": [
+      "Avoid smoking and alcohol",
+      "Regular screenings",
+      "Consult an oncologist for treatment options"
+    ],
+    "last_message": "Early detection can lead to more effective treatment."
+  },
+  {
+    "symptoms": ["Fatigue", "Difficulty sleeping", "Weight gain"],
+    "message": "If you're facing these symptoms, maybe you're facing with Hypothyroidism. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Ashwagandha", "Kelp", "Coconut oil"],
+      "Medication & Habits to follow to recover": [
+        "Take ashwagandha supplements for thyroid support.",
+        "Include kelp in your diet for iodine intake.",
+        "Use coconut oil for potential thyroid health benefits."
+      ]
+    },
+    "precautions": [
+      "Regular thyroid function tests",
+      "Consult an endocrinologist for medication adjustments",
+      "Maintain a healthy lifestyle"
+    ],
+    "last_message": "Proper management can improve thyroid function."
+  },
+  {
+    "symptoms": ["Joint pain", "Swelling", "Morning stiffness"],
+    "message": "If you're facing these symptoms, maybe you're facing with Rheumatoid Arthritis. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Turmeric", "Ginger", "Boswellia"],
+      "Medication & Habits to follow to recover": [
+        "Include turmeric and ginger in your diet for anti-inflammatory benefits.",
+        "Take Boswellia supplements for potential joint relief.",
+        "Practice gentle exercises for joint mobility."
+      ]
+    },
+    "precautions": [
+      "Consult a rheumatologist for a treatment plan",
+      "Follow prescribed medications",
+      "Avoid activities that strain the joints"
+    ],
+    "last_message": "Early intervention can slow down joint damage."
+  },
+  {
+    "symptoms": ["Abdominal pain", "Bloating", "Change in bowel habits"],
+    "message": "If you're facing these symptoms, maybe you're facing with Irritable Bowel Syndrome (IBS). I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Peppermint oil", "Fennel seeds", "Chamomile tea"],
+      "Medication & Habits to follow to recover": [
+        "Take peppermint oil capsules for symptom relief.",
+        "Chew fennel seeds after meals.",
+        "Drink chamomile tea for relaxation."
+      ]
+    },
+    "precautions": [
+      "Maintain a food diary to identify trigger foods",
+      "Practice stress management techniques",
+      "Consult a gastroenterologist for a personalized plan"
+    ],
+    "last_message": "Regular follow-ups are essential."
+  },
+  {
+    "symptoms": ["Headache", "Nausea", "Sensitivity to light"],
+    "message": "If you're facing these symptoms, maybe you're facing with Migraine. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Peppermint oil", "Lavender oil", "Ginger tea"],
+      "Medication & Habits to follow to recover": [
+        "Apply peppermint oil to your temples for relief.",
+        "Inhale lavender oil for relaxation.",
+        "Drink ginger tea to reduce nausea."
+      ]
+    },
+    "precautions": [
+      "Identify and avoid migraine triggers",
+      "Maintain a regular sleep schedule",
+      "Consult a neurologist for personalized treatment"
+    ],
+    "last_message": "Keep a migraine diary for tracking."
+  },
+  {
+    "symptoms": ["Fatigue", "Unexplained weight loss", "Frequent urination"],
+    "message": "If you're facing these symptoms, maybe you're facing with Diabetes. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Bitter Gourd", "Cinnamon", "Fenugreek seeds"],
+      "Medication & Habits to follow to recover": [
+        "Consume bitter gourd juice daily.",
+        "Add cinnamon to your diet for blood sugar control.",
+        "Soak fenugreek seeds overnight and consume them in the morning."
+      ]
+    },
+    "precautions": [
+      "Monitor blood sugar levels regularly",
+      "Follow a balanced diet and avoid sugary foods",
+      "Exercise regularly"
+    ],
+    "last_message": "Consult a doctor for personalized advice."
+  },
+  {
+    "symptoms": ["Runny nose", "Sneezing", "Sore throat"],
+    "message": "If you're facing these symptoms, maybe you're facing with Common Cold. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Honey", "Lemon", "Ginger"],
+      "Medication & Habits to follow to recover": [
+        "Mix honey and lemon juice in warm water.",
+        "Drink ginger tea for its potential benefits."
+      ]
+    },
+    "precautions": [
+      "Stay hydrated",
+      "Rest and get plenty of sleep",
+      "Wash hands frequently to prevent spread"
+    ],
+    "last_message": "If symptoms persist, consult a healthcare professional."
+  },
+  {
+    "symptoms": ["Chest pain", "Breathlessness", "Fatigue"],
+    "message": "If you're facing these symptoms, maybe you're facing with Heart Disease. I've an Ayurvedic remedy for it.",
+    "herbal_remedy": {
+      "ingredients": ["Garlic", "Arjuna bark", "Hawthorn berries"],
+      "Medication & Habits to follow to recover": [
+        "Include garlic in your daily diet.",
+        "Prepare a decoction with Arjuna bark.",
+        "Consume hawthorn berries for heart health."
+      ]
+    },
+    "precautions": [
+      "Adopt a heart-healthy diet",
+      "Regularly monitor blood pressure and cholesterol",
+      "Consult a cardiologist for personalized advice"
+    ],
+    "last_message": "Regular exercise is crucial for heart health."
+  }
+]
