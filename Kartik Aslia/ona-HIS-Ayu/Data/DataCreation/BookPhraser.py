@@ -4,10 +4,10 @@ import json
 import requests
 import re
 
+model_name_or_path = "TheBloke/Wizard-Vicuna-7B-Uncensored-GPTQ"
 
-HOST = 'localhost:5000'
-URI = f'http://{HOST}/api/v1/chat'
-tokenizer = AutoTokenizer.from_pretrained("TheBloke/guanaco-13B-GPTQ", cache_dir="D:\\LLM")
+URI = Client("https://skizzy-create-ona-vicuna.hf.space/")
+tokenizer = AutoTokenizer.from_pretrained(model_name_or_path, use_fast=True,cache_dir="D:\\LLM")
 history = {'internal': [], 'visible': []}
 command = "You are an API that converts bodies of text into a single question and answer containg question on Ayurvedic medicine illness or symptoms. \
             Tha answer must provide a prescription, dosage, composition of the medication, how to take the medicine and how to make it at home with measurements in si units, precautions, and tips for the medicine.\

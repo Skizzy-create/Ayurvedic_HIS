@@ -108,7 +108,7 @@ if prompt:
     response = query_engine.query(prompt)
     
     # Write it out to the screen
-    st.write(response)
+    st.write(response.response)
     
     with st.expander('Response Object'):
         st.write(response)
