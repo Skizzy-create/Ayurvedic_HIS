@@ -5,7 +5,7 @@ import MicIcon from '@mui/icons-material/Mic';
 const Input = () => {
   return (
     <div>
-      <div className="flex  border-gray-300  focus:border-blue-500 focus:outline-none  border bg-white ">
+      <div className="flex rounded-xl focus:border-blue-500 focus:outline-none  border bg-white ">
         <input
           type="text"
           placeholder="Typing Query..."

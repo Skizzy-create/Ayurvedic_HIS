@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import Input from './components/Input';
 import Navbar from './components/Navbar';
-import Toggle from './components/toggle';
 import Message from './components/Message';
+import { Switch } from '@/components/ui/switch';
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
         <div className="flex absolute top-6 gap-x-2">
           <div>Eng</div>
           <div>
-            <Toggle />
+            <Switch />
           </div>
 
           <div>हिन्दी</div>

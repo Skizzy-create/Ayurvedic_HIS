@@ -11,14 +11,14 @@ const Toggle = () => {
   return (
     <button
       className={`bg-white w-12 h-6 rounded-full focus:outline-none ${
-        isToggled ? 'bg-black' : 'bg-white'
+        isToggled ? 'bg-black' : 'bg-green-500'
       }`}
       onClick={handleToggle}
     >
       <span
         className={`block w-5 h-5 m-0.5 rounded-full transform transition-transform ease-in-out ${
-          isToggled ? 'translate-x-6' : ''
-        } ${isToggled ? 'bg-white' : 'bg-black'}`}
+          isToggled ? 'translate-x-6' : 'bg-green-500'
+        } ${isToggled ? 'bg-green-500' : 'bg-black'}`}
       />
     </button>
   );
