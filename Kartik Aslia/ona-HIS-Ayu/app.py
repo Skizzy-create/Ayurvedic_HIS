@@ -19,6 +19,7 @@ from llama_index import ServiceContext
 from llama_index import VectorStoreIndex, download_loader
 from pathlib import Path
 from langchain.document_loaders.pdf import PyMuPDFLoader
+import streamlit as st
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 logging.basicConfig(stream=sys.stdout, level=logging.INFO)
@@ -41,18 +42,25 @@ def get_tokenizer_model():
 
 tokenizer, model = get_tokenizer_model()
 
-# system prompt
-system_prompt = """<s>[INST] <<SYS>>
-You are Myatri. Tell your name.
-your goal is to Offer advice on ayurevedic medicaine based on the illness or the symptoms of the user. <</SYS>>"""
+system_prompt = "<s>[INST] <<SYS>>\
+Hello, I am Myatri, an Ayurvedic practitioner. Introduce your self as a personal Ayurvedic Assistant.\
+Based on your illness or symptoms or the prompt given by the user, you will provide a ayurvedic solution to the problem , as well as the dosage, composition of the medication, instructions on how to take it, precautions, and additional tips. Here's the format of my response:\
+- How the medication will help: [Explanation of how the medication will aid in healing]\
+- Herbs: [List of herbs included in the medication]\
+- How to make the medicine at home: [Instructions on how to prepare the medicine with precise measurements]\
+- Precautions: [Any precautions to be aware of while taking the medication]\
+- Tips: [Additional tips for managing the illness or enhancing the effectiveness of the medication]\
+Please note that while I strive to provide a human-like interaction, I won't use human gestures such as *winks*, *smiling*, *nods*, *adjusts glasses*, etc.\
+<</SYS>>"
+
 
 
 # Create a prompt wrapper
 query_wrapper_prompt = SimpleInputPrompt("{query_str} [/INST]")
 
 # Create a HF LLM using the LLama index wrapper
-llm = HuggingFaceLLM(context_window=3000,
-                     max_new_tokens=2000,
+llm = HuggingFaceLLM(context_window=4000,
+                     max_new_tokens=3000,
                      system_prompt=system_prompt,
                      query_wrapper_prompt=query_wrapper_prompt,
                      model=model,
@@ -65,8 +73,7 @@ embeddings = LangchainEmbedding(
 
 # create new service context
 service_context = ServiceContext.from_defaults(
-    chunk_size=2000,
-    min_chunk_overlap=500,  # some reasonable value less than chunk size
+    chunk_size=3000,
     llm = llm,
     embed_model=embeddings
 )
@@ -91,14 +98,21 @@ st.title("🚀ONA llama 🦙")
 #create a text input box for the user
 prompt = st.text_input("Please input your symptoms")
 
+import pandas as pd
+
+pd.set_option('display.max_columns', None)
+pd.set_option('display.expand_frame_repr', False)
+pd.set_option('max_colwidth', None)
+
 if prompt:
     response = query_engine.query(prompt)
-    #...and write it out to the screen
-    st.write(response)
+    
+    # Write it out to the screen
+    st.write(response.response)
+    
     with st.expander('Response Object'):
         st.write(response)
+        
     # Display raw response object
-    with st.expamnder("Source Object"):
+    with st.expander("Source Object"):
         st.write(response.get_formatted_sources())
-    
-    

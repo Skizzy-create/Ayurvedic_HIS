@@ -1,72 +1,128 @@
-# 🚀 Git Repository Guidelines
+<p align="center">
+  <a href="" rel="noopener">
+    <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo">
+  </a>
+</p>
+<h3 align="center">TEAM HEXORA</h3>
 
-Welcome to our Git repository! This document outlines the best practices for contributing to this project. Please follow these guidelines to maintain a clean and organized repository.
+<div align="center">
 
-## 🌟 Do's
+[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-### 1. Create an Issue First
+</div>
 
-Before making any code changes, create a GitHub issue to discuss the problem or feature you plan to address. This ensures clear communication and helps in tracking progress.
+---
 
-### 2. Create Feature or Bugfix Branches
+<p align="center"> 🩺 A personalized app that serves as your personal Ayurvedic assistant, providing tailored advice and guidance based on Ayurvedic principles. 🩺 </p>
 
-For each issue or task, create a dedicated branch from the `main` branch. Use descriptive branch names like `feature/new-feature` or `bugfix/issue-description`.
+## 📝 Table of Contents
 
-```bash
-git checkout -b feature/new-feature
+- [Problem Statement](#problem_statement)
+- [Idea / Solution](#idea)
+- [Dependencies / Limitations](#limitations)
+- [Future Scope](#future_scope)
+- [Setting up a local environment](#getting_started)
+- [Usage](#usage)
+- [Technology Stack](#tech_stack)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgments)
+
+## 🧐 Problem Statement <a name="problem_statement"></a>
+
+A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories.
+
+## 🧐 Description
+
+A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories. Ayurveda has a large database of single herbs, minerals, and formulations that have been tailormade to suit each individual, his/her psychosomatic constitution, clinical condition, comorbidities, age, region, etc. These data are spread over more than 150 texts, amidst Organization Ministry of AYUSH.
+
+## 💡 Idea / Solution <a name="idea"></a>
+
+Our team has developed an application that leverages state-of-the-art technologies such as GPT and Bigram models. This application is designed to interact with users and provide accurate responses based on their symptoms. It also offers precautions for the suggested remedies.
+
+The application provides the following information:
+
+- **How the medication will help**: This section explains how the suggested medication will aid in healing the user's symptoms.
+
+- **Herbs**: This section provides a list of herbs included in the suggested medication.
+
+- **How to make the medicine at home**: This section offers instructions on how to prepare the medicine at home with precise measurements.
+
+- **Precautions**: This section lists any precautions the user should be aware of while taking the medication.
+
+- **Tips**: This section provides additional tips for managing the illness or enhancing the effectiveness of the medication.
+
+## ⛓️ Dependencies / Limitations <a name="limitations"></a>
+
+- What are the dependencies of your project?
+- Describe each limitation in detailed but concise terms.
+- Explain why each limitation exists.
+- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
+- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if appropriate, describe how these limitations could point to the need for further research.
+
+## 🚀 Future Scope <a name="future_scope"></a>
+
+Write about what you could not develop during the course of the Hackathon; and about what your project can achieve in the future.
+
+## 🏁 Getting Started <a name="getting_started"></a>
+
+- once the Hackathon is completed completed the code will be open sourced with all the data 
+### Prerequisites
+
+You need to have Python 3.8 or higher installed on your machine. You can download it from [here](https://www.python.org/downloads/).
+
+```python
+transformers==4.9.2
+torch==1.7.1
+llama-index
+streamlit
+llamalogs
+gradio
+llama_cpp
 ```
+## 🎈 Usage <a name="usage"></a>
 
-### 3. Keep Commits Atomic
+Add notes about how to use the system.
 
-Make commits small and focused on a single task. Each commit should address one issue or feature. Use descriptive commit messages that start with a verb.
+## ⛏️ Built With <a name="tech_stack"></a>
 
-```bash
-git commit -m "✨ Add user registration functionality"
-```
+- [Python](https://www.python.org/) - Programming Language
+- [Next.js](https://nextjs.org/) - Server Framework
+- [Figma](https://www.figma.com/) - Design Tool
 
-### 4. Pull from `main` Frequently
+## ✍️ Authors / Contributors <a name="authors"></a>
+- Kartik Aslia
+- Jayanth Koppala
+- Shashwat Shandilya
+- Lavya Rajesh Punjabi
+- Utkarsh Mahajan
+- Jasmehar
 
-Regularly pull the latest changes from the `main` branch into your feature branch to avoid conflicts and stay up-to-date with the project's progress.
+## 🎉 Acknowledgments <a name="acknowledgments"></a>
 
-```bash
-git pull origin main
-```
+- We would like to express our deepest appreciation to all those who provided us the possibility to complete this project. A special gratitude we give to our project team members who spent countless hours brainstorming, coding, and debugging. 
 
-### 5. Use Feature Branches for Pull Requests
+- A big shout out to the open-source community. We have learned so much by using your open-source libraries and studying your code. Your contributions have made our work not only easier but also more enjoyable.
 
-Submit pull requests (PRs) from your feature branches to the `main` branch. PRs undergo code reviews before merging.
+- Lastly, we would like to acknowledge the support and flexibility of our families and friends during this time. Your understanding and encouragement were a significant part of our work.
+## UI Design 
 
-### 6. Write Tests
+Here are some previews of our user interface design:
 
-For new features and bug fixes, write unit tests whenever applicable. Ensure that existing tests pass before committing.
+![Screenshot 1](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/3d8bc278-2c47-47da-851d-7a99f772b1a3)
+![Screenshot 2](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/468bd036-e030-46c7-816c-114fccb14489)
+![Screenshot 3](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/e7962daf-154a-4980-b54d-d448659b394b)
+![Screenshot 4](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/505f59f1-1f2a-431c-80b1-3a378ad35afb)
+![Screenshot 5](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/166d9717-b419-4d2d-acbc-c4d667b903e4)
+![Screenshot 6](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/c5acf7bd-e9d4-41a5-aa6c-9a1bcdfe6a40)
+![Screenshot 7](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/331ab2b5-e30d-4016-a576-cea63a99674e)
+![Screenshot 8](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/806d0f38-70c5-4873-94f7-cfc8ea238e3a)
+![Screenshot 9](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/2bf9a469-6e0f-4712-800a-2a499d9ccd38)
 
-### 7. Document Code Changes
+These screenshots showcase the user interface of our Ayurvedic Health Information System (HIS). We've put effort into creating an intuitive and user-friendly design for an enhanced user experience.
 
-Update code comments and documentation to reflect changes. This helps maintain code readability and makes it easier for others to understand your code.
-
-## 🚫 Don'ts
-
-### 1. Don't Commit Directly to `main`
-
-Avoid committing directly to the `main` branch. Use feature branches and submit PRs for code review.
-
-### 2. Don't Push Sensitive Information
-
-Never push sensitive information like API keys, passwords, or secrets to the repository. Use environment variables or configuration files for such information.
-
-### 3. Don't Skip Code Reviews
-
-Always seek code reviews from team members before merging a PR. This ensures code quality and consistency.
-
-### 4. Don't Merge Your Own PRs
-
-To maintain code quality and transparency, don't merge your own PRs. Another team member should review and merge them.
-
-### 5. Don't Forget to Pull Before Pushing
-
-Before pushing your changes, always pull the latest changes from the `main` branch to avoid conflicts.
-
-## 💬 Questions and Feedback
-
-If you have questions or suggestions regarding our Git practices, please reach out to the team on our WhatsApp group. Happy coding!
-
+## model Diagram
+![Model4](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/112803348/8f17c78a-7048-4eab-9c1b-863c70e50e79)
