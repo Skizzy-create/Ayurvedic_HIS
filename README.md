@@ -108,3 +108,21 @@ Add notes about how to use the system.
 - A big shout out to the open-source community. We have learned so much by using your open-source libraries and studying your code. Your contributions have made our work not only easier but also more enjoyable.
 
 - Lastly, we would like to acknowledge the support and flexibility of our families and friends during this time. Your understanding and encouragement were a significant part of our work.
+## UI Design 
+
+Here are some previews of our user interface design:
+
+![Screenshot 1](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/3d8bc278-2c47-47da-851d-7a99f772b1a3)
+![Screenshot 2](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/468bd036-e030-46c7-816c-114fccb14489)
+![Screenshot 3](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/e7962daf-154a-4980-b54d-d448659b394b)
+![Screenshot 4](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/505f59f1-1f2a-431c-80b1-3a378ad35afb)
+![Screenshot 5](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/166d9717-b419-4d2d-acbc-c4d667b903e4)
+![Screenshot 6](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/c5acf7bd-e9d4-41a5-aa6c-9a1bcdfe6a40)
+![Screenshot 7](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/331ab2b5-e30d-4016-a576-cea63a99674e)
+![Screenshot 8](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/806d0f38-70c5-4873-94f7-cfc8ea238e3a)
+![Screenshot 9](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/2bf9a469-6e0f-4712-800a-2a499d9ccd38)
+
+These screenshots showcase the user interface of our Ayurvedic Health Information System (HIS). We've put effort into creating an intuitive and user-friendly design for an enhanced user experience.
+
+## model Diagram
+![Model4](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/112803348/8f17c78a-7048-4eab-9c1b-863c70e50e79)
