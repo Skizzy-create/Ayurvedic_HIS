@@ -98,8 +98,6 @@ Add notes about how to use the system.
 - Jayanth Koppala
 - Shashwat Shandilya
 - Lavya Rajesh Punjabi
-- Utkarsh Mahajan
-- Jasmehar
 
 ## 🎉 Acknowledgments <a name="acknowledgments"></a>
 
