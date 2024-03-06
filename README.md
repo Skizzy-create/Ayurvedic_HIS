@@ -1,5 +1,30 @@
 <p align="center">
-- [Technology Stack](#tech_stack)
+  <a href="" rel="noopener">
+    <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo">
+  </a>
+</p>
+<h3 align="center">TEAM HEXORA</h3>
+
+<div align="center">
+
+[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
+</div>
+
+---
+
+<p align="center"> 🩺 A personalized app that serves as your personal Ayurvedic assistant, providing tailored advice and guidance based on Ayurvedic principles. 🩺 </p>
+
+## 📝 Table of Contents
+
+- [Problem Statement](#problem_statement)
+- [Idea / Solution](#idea)
+- [Dependencies / Limitations](#limitations)
+- [Future Scope](#future_scope)
+- [Setting up a local environment](#getting_started)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
@@ -10,7 +35,7 @@ A software that suggests drugs and formulations for a disease/pharmacological pr
 
 ## 🧐 Description
 
-A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories. Ayurveda has a large database of single herbs, minerals, and formulations that have been tailormade to suit each individual, his/her psychosomatic constitution, clinical condition, comorbidities, age, region, etc. These data are spread over more than 150 texts, amidst Organization Ministry of AYUSH.
+A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories. Ayurveda has a large database of single herbs, minerals, and formulations that have been tailor-made to suit each individual, his/her psychosomatic constitution, clinical condition, comorbidities, age, region, etc. These data are spread over more than 150 texts, amidst the Organization Ministry of AYUSH.
 
 ## 💡 Idea / Solution <a name="idea"></a>
 
@@ -78,3 +103,18 @@ llama_cpp
 ## UI Design 
 
 Here are some previews of our user interface design:
+
+![Screenshot 1](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/3d8bc278-2c47-47da-851d-7a99f772b1a3)
+![Screenshot 2](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/468bd036-e030-46c7-816c-114fccb14489)
+![Screenshot 3](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/e7962daf-154a-4980-b54d-d448659b394b)
+![Screenshot 4](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/505f59f1-1f2a-431c-80b1-3a378ad35afb)
+![Screenshot 5](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/166d9717-b419-4d2d-acbc-c4d667b903e4)
+![Screenshot 6](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/c5acf7bd-e9d4-41a5-aa6c-9a1bcdfe6a40)
+![Screenshot 7](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/331ab2b5-e30d-4016-a576-cea63a99674e)
+![Screenshot 8](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/806d0f38-70c5-4873-94f7-cfc8ea238e3a)
+![Screenshot 9](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/116277022/2bf9a469-6e0f-4712-800a-2a499d9ccd38)
+
+These screenshots showcase the user interface of our Ayurvedic Health Information System (HIS). We've put effort into creating an intuitive and user-friendly design for an enhanced user experience.
+
+## model Diagram
+![Model4](https://github.com/Skizzy-create/Ayurvedic_HIS/assets/112803348/8f17c78a-7048-4eab-9c1b-863c70e50e79)
