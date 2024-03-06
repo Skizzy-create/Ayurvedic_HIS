@@ -26,7 +26,6 @@
 - [Future Scope](#future_scope)
 - [Setting up a local environment](#getting_started)
 - [Usage](#usage)
-- [Technology Stack](#tech_stack)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
@@ -37,7 +36,7 @@ A software that suggests drugs and formulations for a disease/pharmacological pr
 
 ## 🧐 Description
 
-A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories. Ayurveda has a large database of single herbs, minerals, and formulations that have been tailormade to suit each individual, his/her psychosomatic constitution, clinical condition, comorbidities, age, region, etc. These data are spread over more than 150 texts, amidst Organization Ministry of AYUSH.
+A software that suggests drugs and formulations for a disease/pharmacological property based on the Ayurvedic classical books/Repositories. Ayurveda has a large database of single herbs, minerals, and formulations that have been tailor-made to suit each individual, his/her psychosomatic constitution, clinical condition, comorbidities, age, region, etc. These data are spread over more than 150 texts, amidst the Organization Ministry of AYUSH.
 
 ## 💡 Idea / Solution <a name="idea"></a>
 
