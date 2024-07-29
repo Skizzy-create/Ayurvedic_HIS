@@ -1,6 +1,6 @@
 gradio==4.36.0
 transformers==4.38.0
-torch==1.13.1
+torch==2.2.0
 llama-cpp-python
 os
 urllib
